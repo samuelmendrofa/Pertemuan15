@@ -11,12 +11,12 @@
 ## 📱 App Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Home+Screen" width="250"/>
-  <img src="https://via.placeholder.com/250x500?text=Add+Task" width="250"/>
-  <img src="https://via.placeholder.com/250x500?text=Dark+Mode" width="250"/>
-</p>
+  <img width="432" height="976" alt="image" src="https://github.com/user-attachments/assets/1071493c-bd38-4e1c-adfb-52ecefbb00f4" />
+  <img width="432" height="977" alt="image" src="https://github.com/user-attachments/assets/d278687f-2f63-4dbd-a4e9-c9f63eb900ea" />
+  <img width="431" height="952" alt="image" src="https://github.com/user-attachments/assets/3e2b2f81-8e95-4515-bbad-b72046e7b9e2" />
 
-> ⚠️ Ganti placeholder di atas dengan screenshot aplikasi kamu (WAJIB biar tidak dianggap “broken image”).
+
+
 
 ---
 
@@ -64,10 +64,10 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/USERNAME/mytasklist-app.git
+git clone https://github.com/samuelmendrofa/MyTaskList-App.git
 
 # Masuk ke folder project
-cd mytasklist-app
+cd Mytasklist-App
 
 # Install dependencies
 npm install
