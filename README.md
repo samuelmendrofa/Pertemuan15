@@ -80,7 +80,7 @@ npx expo start
 
 ## 📦 Download APK
 
-👉 [Download APK di sini](https://expo.dev/)
+👉 [Download APK di sini](https://expo.dev/accounts/samuel091006/projects/mytasklist-app/builds/3c946cf0-cab7-4101-b8fa-f3c944f0edd8)
 
 > ⚠️ Ganti dengan link APK hasil build EAS kamu (WAJIB).
 
@@ -89,7 +89,7 @@ npx expo start
 ## 👨‍💻 Developer
 
 * **Nama**: Samuel Ricardo Mendrofa
-* **NIM**: (Isi NIM kamu di sini)
+* **NIM**: (243303621285)
 * **Institusi**: Universitas Prima Indonesia
 
 ---
