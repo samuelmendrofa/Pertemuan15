@@ -10,12 +10,8 @@
 
 ## 📱 App Preview
 
-<p align="center">
-  <img width="432" height="976" alt="image" src="https://github.com/user-attachments/assets/1071493c-bd38-4e1c-adfb-52ecefbb00f4" />
-  <img width="432" height="977" alt="image" src="https://github.com/user-attachments/assets/d278687f-2f63-4dbd-a4e9-c9f63eb900ea" />
-  <img width="431" height="952" alt="image" src="https://github.com/user-attachments/assets/3e2b2f81-8e95-4515-bbad-b72046e7b9e2" />
-
-
+| :---: | :---: | :---: |
+| <img width="432" height="976" alt="image" src="https://github.com/user-attachments/assets/1071493c-bd38-4e1c-adfb-52ecefbb00f4" /> | <img width="432" height="977" alt="image" src="https://github.com/user-attachments/assets/d278687f-2f63-4dbd-a4e9-c9f63eb900ea" /> | <img width="431" height="952" alt="image" src="https://github.com/user-attachments/assets/3e2b2f81-8e95-4515-bbad-b72046e7b9e2" /> |
 
 
 ---
